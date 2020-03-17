@@ -1,0 +1,36 @@
+{
+    "_comment": "reference: http://www.json.org/",
+    "_comment": "example JSON files: http://json.org/example.html",
+    "_comment": "simple parsing example: http://www.w3schools.com/json/json_http.asp",
+    
+    "Camera": {
+        "Center": [20, 60],
+        "Width": 20,
+        "Viewport": [20, 40, 600, 300],
+        "BgColor": [0.8, 0.8, 0.8, 1.0]
+    },
+    
+    "Walls": [
+        {
+            "Color": [0, 1, 0.75, 1],
+            "Pos": [100, 70.3571428571],
+            "Width": 5,
+            "Height": 80
+        }, 
+        
+        {
+            "Color": [0, 1, 0.75, 1],
+            "Pos": [50, 80.3571428571],
+            "Width": 5,
+            "Height": 100
+        }, 
+        
+        {
+            "Color": [0, 1, 0.75, 1],
+            "Pos": [150, 80.3571428571],
+            "Width": 5,
+            "Height": 100
+        }
+        
+    ]
+}
